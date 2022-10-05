@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,500|Poppins:400,700,900,500,600|");
+
+.frame-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--black-32);
+  border-radius: 12px;
+  display: flex;
+  height: 50px;
+  min-width: 419px;
+  padding: 15px 24px;
+}
+
+.username-or-email {
+  letter-spacing: 0;
+  min-height: 19px;
+}
